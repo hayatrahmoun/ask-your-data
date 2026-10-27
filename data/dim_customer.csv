@@ -1,0 +1,451 @@
+customer_id,customer_name,segment,city,region
+C0001,Sam Quincy,Consumer,Boston,East
+C0002,Skyler Jensen,Home Office,Denver,West
+C0003,Avery Stone,Corporate,Denver,West
+C0004,Sam Owens,Consumer,Seattle,West
+C0005,Morgan Carter,Consumer,Atlanta,East
+C0006,Drew Vaughn,Consumer,Boston,East
+C0007,Cameron Quincy,Home Office,Boston,East
+C0008,Cameron Quincy,Consumer,Denver,West
+C0009,Drew Diaz,Corporate,Atlanta,East
+C0010,Robin Keller,Corporate,Nashville,South
+C0011,Drew Irwin,Corporate,Miami,East
+C0012,Taylor Turner,Consumer,Dallas,Central
+C0013,Dana Nolan,Home Office,Austin,Central
+C0014,Avery Reed,Consumer,Denver,West
+C0015,Drew Jensen,Corporate,Phoenix,South
+C0016,Quinn Foster,Corporate,Atlanta,East
+C0017,Sam Mason,Corporate,Miami,East
+C0018,Kai Carter,Home Office,Seattle,West
+C0019,Kai Reed,Consumer,Atlanta,East
+C0020,Casey Nolan,Consumer,Seattle,West
+C0021,Taylor Quincy,Consumer,Seattle,West
+C0022,Cameron Irwin,Consumer,Houston,South
+C0023,Sam Vaughn,Consumer,Seattle,West
+C0024,Avery Stone,Consumer,Phoenix,South
+C0025,Skyler Quincy,Consumer,Houston,South
+C0026,Dana Ellis,Consumer,Phoenix,South
+C0027,Jamie Keller,Consumer,Atlanta,East
+C0028,Quinn Brooks,Corporate,Nashville,South
+C0029,Drew Ellis,Corporate,Dallas,Central
+C0030,Cameron Owens,Consumer,Nashville,South
+C0031,Noel Price,Consumer,Los Angeles,West
+C0032,Jamie Vaughn,Consumer,Nashville,South
+C0033,Avery Hayes,Corporate,Dallas,Central
+C0034,Noel Irwin,Consumer,Boston,East
+C0035,Sam Keller,Consumer,Los Angeles,West
+C0036,Dana Ellis,Consumer,Atlanta,East
+C0037,Quinn Diaz,Consumer,Nashville,South
+C0038,Skyler Keller,Consumer,Seattle,West
+C0039,Riley Foster,Corporate,Miami,East
+C0040,Parker Owens,Corporate,Chicago,Central
+C0041,Noel Jensen,Corporate,Denver,West
+C0042,Taylor Reed,Corporate,Atlanta,East
+C0043,Reese Price,Corporate,Houston,South
+C0044,Sam Hayes,Consumer,Phoenix,South
+C0045,Dana Reed,Corporate,Austin,Central
+C0046,Avery Reed,Corporate,Dallas,Central
+C0047,Robin Irwin,Consumer,Los Angeles,West
+C0048,Kai Grant,Corporate,Chicago,Central
+C0049,Morgan Owens,Consumer,Chicago,Central
+C0050,Reese Diaz,Consumer,Atlanta,East
+C0051,Robin Ellis,Corporate,Boston,East
+C0052,Robin Brooks,Home Office,Seattle,West
+C0053,Dana Quincy,Home Office,Denver,West
+C0054,Dana Owens,Consumer,Atlanta,East
+C0055,Quinn Price,Corporate,Atlanta,East
+C0056,Casey Quincy,Corporate,Phoenix,South
+C0057,Parker Keller,Consumer,Los Angeles,West
+C0058,Drew Mason,Home Office,Dallas,Central
+C0059,Alex Diaz,Consumer,Chicago,Central
+C0060,Morgan Diaz,Consumer,Austin,Central
+C0061,Avery Owens,Consumer,Austin,Central
+C0062,Skyler Keller,Home Office,Seattle,West
+C0063,Kai Mason,Consumer,Phoenix,South
+C0064,Sam Quincy,Consumer,Los Angeles,West
+C0065,Parker Nolan,Consumer,Phoenix,South
+C0066,Parker Mason,Consumer,Los Angeles,West
+C0067,Sam Mason,Consumer,Atlanta,East
+C0068,Dana Hayes,Corporate,Houston,South
+C0069,Reese Brooks,Consumer,Boston,East
+C0070,Riley Jensen,Home Office,Houston,South
+C0071,Sasha Foster,Home Office,Boston,East
+C0072,Casey Jensen,Consumer,Miami,East
+C0073,Sasha Stone,Consumer,Dallas,Central
+C0074,Alex Foster,Corporate,Nashville,South
+C0075,Robin Carter,Consumer,Los Angeles,West
+C0076,Kai Grant,Consumer,Atlanta,East
+C0077,Noel Grant,Home Office,Miami,East
+C0078,Avery Owens,Home Office,Phoenix,South
+C0079,Jordan Mason,Corporate,Austin,Central
+C0080,Drew Quincy,Consumer,Atlanta,East
+C0081,Sasha Owens,Corporate,Los Angeles,West
+C0082,Avery Jensen,Corporate,Seattle,West
+C0083,Avery Reed,Consumer,Miami,East
+C0084,Riley Ellis,Corporate,Phoenix,South
+C0085,Riley Brooks,Consumer,Dallas,Central
+C0086,Jordan Carter,Consumer,Miami,East
+C0087,Dana Price,Corporate,Dallas,Central
+C0088,Skyler Keller,Consumer,Los Angeles,West
+C0089,Cameron Ellis,Consumer,Boston,East
+C0090,Noel Lopez,Home Office,Denver,West
+C0091,Noel Ellis,Home Office,Miami,East
+C0092,Quinn Owens,Corporate,Miami,East
+C0093,Quinn Jensen,Home Office,Phoenix,South
+C0094,Taylor Irwin,Home Office,Austin,Central
+C0095,Morgan Hayes,Consumer,Atlanta,East
+C0096,Skyler Nolan,Consumer,Phoenix,South
+C0097,Reese Irwin,Consumer,Chicago,Central
+C0098,Sasha Carter,Consumer,Phoenix,South
+C0099,Riley Diaz,Corporate,Austin,Central
+C0100,Riley Vaughn,Consumer,Los Angeles,West
+C0101,Jamie Turner,Consumer,Chicago,Central
+C0102,Quinn Owens,Consumer,Chicago,Central
+C0103,Quinn Grant,Consumer,Austin,Central
+C0104,Dana Vaughn,Home Office,Miami,East
+C0105,Casey Quincy,Consumer,Seattle,West
+C0106,Casey Price,Consumer,Miami,East
+C0107,Dana Jensen,Consumer,Seattle,West
+C0108,Cameron Grant,Consumer,Atlanta,East
+C0109,Sam Carter,Corporate,Boston,East
+C0110,Avery Turner,Consumer,Nashville,South
+C0111,Jordan Keller,Consumer,Boston,East
+C0112,Cameron Foster,Consumer,Phoenix,South
+C0113,Cameron Hayes,Home Office,Boston,East
+C0114,Robin Mason,Corporate,Houston,South
+C0115,Drew Ellis,Corporate,Seattle,West
+C0116,Quinn Stone,Corporate,Chicago,Central
+C0117,Alex Quincy,Corporate,Seattle,West
+C0118,Quinn Price,Consumer,Denver,West
+C0119,Skyler Jensen,Consumer,Denver,West
+C0120,Riley Nolan,Corporate,Chicago,Central
+C0121,Jordan Mason,Consumer,Los Angeles,West
+C0122,Sam Nolan,Home Office,Chicago,Central
+C0123,Reese Carter,Consumer,Houston,South
+C0124,Dana Jensen,Corporate,Denver,West
+C0125,Dana Brooks,Home Office,Los Angeles,West
+C0126,Taylor Keller,Consumer,Atlanta,East
+C0127,Taylor Hayes,Home Office,Los Angeles,West
+C0128,Skyler Diaz,Corporate,Atlanta,East
+C0129,Skyler Diaz,Home Office,Miami,East
+C0130,Taylor Mason,Consumer,Nashville,South
+C0131,Dana Ellis,Consumer,Atlanta,East
+C0132,Casey Turner,Corporate,Denver,West
+C0133,Sasha Mason,Consumer,Phoenix,South
+C0134,Avery Hayes,Consumer,Nashville,South
+C0135,Reese Mason,Home Office,Atlanta,East
+C0136,Casey Brooks,Corporate,Atlanta,East
+C0137,Taylor Vaughn,Consumer,Los Angeles,West
+C0138,Avery Keller,Consumer,Chicago,Central
+C0139,Quinn Quincy,Consumer,Nashville,South
+C0140,Sam Carter,Consumer,Miami,East
+C0141,Casey Keller,Home Office,Atlanta,East
+C0142,Skyler Keller,Consumer,Seattle,West
+C0143,Avery Turner,Consumer,Phoenix,South
+C0144,Taylor Mason,Corporate,Boston,East
+C0145,Drew Keller,Consumer,Los Angeles,West
+C0146,Robin Grant,Consumer,Atlanta,East
+C0147,Sasha Hayes,Corporate,Atlanta,East
+C0148,Drew Lopez,Corporate,Nashville,South
+C0149,Robin Jensen,Home Office,Boston,East
+C0150,Casey Brooks,Corporate,Seattle,West
+C0151,Jamie Reed,Consumer,Phoenix,South
+C0152,Alex Stone,Corporate,Dallas,Central
+C0153,Drew Diaz,Home Office,Boston,East
+C0154,Riley Mason,Corporate,Denver,West
+C0155,Riley Diaz,Home Office,Nashville,South
+C0156,Skyler Owens,Corporate,Los Angeles,West
+C0157,Jordan Grant,Home Office,Chicago,Central
+C0158,Morgan Owens,Consumer,Chicago,Central
+C0159,Cameron Price,Corporate,Dallas,Central
+C0160,Noel Quincy,Consumer,Miami,East
+C0161,Riley Diaz,Corporate,Phoenix,South
+C0162,Reese Turner,Corporate,Nashville,South
+C0163,Sasha Foster,Home Office,Atlanta,East
+C0164,Morgan Brooks,Home Office,Houston,South
+C0165,Jordan Mason,Consumer,Houston,South
+C0166,Drew Irwin,Corporate,Austin,Central
+C0167,Riley Reed,Corporate,Los Angeles,West
+C0168,Quinn Reed,Consumer,Denver,West
+C0169,Sasha Hayes,Consumer,Phoenix,South
+C0170,Morgan Vaughn,Consumer,Atlanta,East
+C0171,Reese Grant,Corporate,Houston,South
+C0172,Reese Lopez,Consumer,Nashville,South
+C0173,Noel Grant,Home Office,Austin,Central
+C0174,Sasha Turner,Consumer,Los Angeles,West
+C0175,Taylor Ellis,Home Office,Chicago,Central
+C0176,Drew Brooks,Consumer,Boston,East
+C0177,Casey Jensen,Corporate,Nashville,South
+C0178,Sasha Vaughn,Consumer,Los Angeles,West
+C0179,Taylor Stone,Corporate,Boston,East
+C0180,Sam Price,Corporate,Houston,South
+C0181,Robin Stone,Home Office,Dallas,Central
+C0182,Morgan Stone,Home Office,Dallas,Central
+C0183,Jordan Lopez,Consumer,Boston,East
+C0184,Quinn Hayes,Consumer,Houston,South
+C0185,Alex Quincy,Consumer,Dallas,Central
+C0186,Riley Owens,Consumer,Houston,South
+C0187,Avery Irwin,Corporate,Houston,South
+C0188,Kai Carter,Corporate,Miami,East
+C0189,Cameron Price,Corporate,Miami,East
+C0190,Jamie Grant,Home Office,Nashville,South
+C0191,Alex Turner,Corporate,Chicago,Central
+C0192,Noel Foster,Corporate,Denver,West
+C0193,Alex Diaz,Consumer,Seattle,West
+C0194,Sam Reed,Consumer,Dallas,Central
+C0195,Kai Ellis,Corporate,Houston,South
+C0196,Cameron Ellis,Home Office,Boston,East
+C0197,Jamie Mason,Consumer,Chicago,Central
+C0198,Cameron Stone,Consumer,Nashville,South
+C0199,Alex Ellis,Corporate,Seattle,West
+C0200,Casey Hayes,Consumer,Seattle,West
+C0201,Sasha Quincy,Consumer,Phoenix,South
+C0202,Riley Vaughn,Home Office,Boston,East
+C0203,Quinn Lopez,Corporate,Los Angeles,West
+C0204,Avery Diaz,Consumer,Denver,West
+C0205,Noel Brooks,Home Office,Houston,South
+C0206,Taylor Foster,Consumer,Atlanta,East
+C0207,Casey Diaz,Home Office,Denver,West
+C0208,Alex Owens,Consumer,Atlanta,East
+C0209,Sasha Diaz,Corporate,Houston,South
+C0210,Casey Lopez,Consumer,Dallas,Central
+C0211,Noel Owens,Consumer,Denver,West
+C0212,Dana Mason,Home Office,Los Angeles,West
+C0213,Avery Ellis,Consumer,Atlanta,East
+C0214,Kai Reed,Consumer,Nashville,South
+C0215,Alex Price,Consumer,Dallas,Central
+C0216,Sam Price,Corporate,Seattle,West
+C0217,Robin Diaz,Corporate,Los Angeles,West
+C0218,Avery Diaz,Home Office,Austin,Central
+C0219,Parker Turner,Consumer,Austin,Central
+C0220,Sam Irwin,Consumer,Denver,West
+C0221,Sasha Hayes,Consumer,Seattle,West
+C0222,Jordan Keller,Corporate,Dallas,Central
+C0223,Drew Owens,Home Office,Dallas,Central
+C0224,Riley Vaughn,Corporate,Dallas,Central
+C0225,Drew Grant,Corporate,Boston,East
+C0226,Sasha Turner,Consumer,Denver,West
+C0227,Quinn Brooks,Home Office,Dallas,Central
+C0228,Parker Mason,Consumer,Nashville,South
+C0229,Jordan Nolan,Consumer,Chicago,Central
+C0230,Robin Diaz,Consumer,Los Angeles,West
+C0231,Cameron Diaz,Consumer,Chicago,Central
+C0232,Cameron Jensen,Consumer,Miami,East
+C0233,Alex Vaughn,Consumer,Atlanta,East
+C0234,Taylor Mason,Consumer,Austin,Central
+C0235,Taylor Turner,Corporate,Nashville,South
+C0236,Cameron Reed,Consumer,Phoenix,South
+C0237,Avery Keller,Consumer,Dallas,Central
+C0238,Reese Quincy,Home Office,Boston,East
+C0239,Robin Brooks,Corporate,Nashville,South
+C0240,Skyler Diaz,Corporate,Denver,West
+C0241,Casey Reed,Consumer,Seattle,West
+C0242,Casey Quincy,Home Office,Phoenix,South
+C0243,Quinn Foster,Consumer,Austin,Central
+C0244,Riley Lopez,Consumer,Austin,Central
+C0245,Dana Nolan,Home Office,Seattle,West
+C0246,Noel Stone,Corporate,Nashville,South
+C0247,Dana Nolan,Corporate,Denver,West
+C0248,Casey Jensen,Corporate,Chicago,Central
+C0249,Jordan Irwin,Corporate,Houston,South
+C0250,Noel Jensen,Consumer,Dallas,Central
+C0251,Jordan Owens,Consumer,Miami,East
+C0252,Sasha Stone,Consumer,Seattle,West
+C0253,Casey Keller,Consumer,Los Angeles,West
+C0254,Drew Foster,Home Office,Nashville,South
+C0255,Casey Foster,Consumer,Austin,Central
+C0256,Sasha Price,Corporate,Los Angeles,West
+C0257,Robin Reed,Corporate,Austin,Central
+C0258,Sasha Diaz,Corporate,Austin,Central
+C0259,Kai Carter,Consumer,Los Angeles,West
+C0260,Quinn Mason,Consumer,Los Angeles,West
+C0261,Jamie Diaz,Home Office,Phoenix,South
+C0262,Taylor Reed,Corporate,Chicago,Central
+C0263,Riley Hayes,Corporate,Atlanta,East
+C0264,Noel Diaz,Home Office,Austin,Central
+C0265,Noel Turner,Corporate,Dallas,Central
+C0266,Parker Ellis,Consumer,Chicago,Central
+C0267,Taylor Grant,Corporate,Austin,Central
+C0268,Parker Ellis,Consumer,Phoenix,South
+C0269,Quinn Diaz,Corporate,Seattle,West
+C0270,Drew Brooks,Home Office,Denver,West
+C0271,Cameron Carter,Consumer,Miami,East
+C0272,Taylor Ellis,Consumer,Dallas,Central
+C0273,Robin Carter,Consumer,Los Angeles,West
+C0274,Avery Mason,Home Office,Los Angeles,West
+C0275,Drew Owens,Consumer,Austin,Central
+C0276,Robin Irwin,Consumer,Los Angeles,West
+C0277,Robin Hayes,Consumer,Denver,West
+C0278,Sasha Lopez,Consumer,Denver,West
+C0279,Cameron Stone,Consumer,Seattle,West
+C0280,Dana Stone,Consumer,Atlanta,East
+C0281,Drew Brooks,Consumer,Houston,South
+C0282,Quinn Ellis,Consumer,Atlanta,East
+C0283,Kai Foster,Consumer,Seattle,West
+C0284,Morgan Foster,Consumer,Austin,Central
+C0285,Reese Mason,Consumer,Atlanta,East
+C0286,Noel Jensen,Corporate,Dallas,Central
+C0287,Casey Brooks,Consumer,Austin,Central
+C0288,Alex Irwin,Consumer,Dallas,Central
+C0289,Noel Lopez,Consumer,Seattle,West
+C0290,Kai Diaz,Consumer,Boston,East
+C0291,Sam Reed,Consumer,Phoenix,South
+C0292,Jordan Carter,Consumer,Seattle,West
+C0293,Avery Turner,Home Office,Houston,South
+C0294,Skyler Carter,Consumer,Miami,East
+C0295,Robin Reed,Consumer,Atlanta,East
+C0296,Robin Turner,Consumer,Houston,South
+C0297,Morgan Vaughn,Consumer,Nashville,South
+C0298,Riley Reed,Consumer,Phoenix,South
+C0299,Parker Quincy,Corporate,Houston,South
+C0300,Reese Nolan,Home Office,Miami,East
+C0301,Reese Quincy,Consumer,Phoenix,South
+C0302,Cameron Diaz,Consumer,Austin,Central
+C0303,Robin Lopez,Consumer,Miami,East
+C0304,Riley Lopez,Consumer,Atlanta,East
+C0305,Sasha Stone,Corporate,Phoenix,South
+C0306,Robin Keller,Consumer,Seattle,West
+C0307,Dana Irwin,Consumer,Houston,South
+C0308,Skyler Nolan,Home Office,Atlanta,East
+C0309,Morgan Grant,Consumer,Seattle,West
+C0310,Sam Diaz,Consumer,Seattle,West
+C0311,Avery Keller,Corporate,Seattle,West
+C0312,Taylor Jensen,Consumer,Austin,Central
+C0313,Reese Foster,Consumer,Phoenix,South
+C0314,Riley Irwin,Consumer,Phoenix,South
+C0315,Drew Irwin,Home Office,Austin,Central
+C0316,Cameron Hayes,Consumer,Miami,East
+C0317,Avery Irwin,Consumer,Nashville,South
+C0318,Taylor Owens,Consumer,Chicago,Central
+C0319,Morgan Grant,Consumer,Chicago,Central
+C0320,Dana Turner,Corporate,Austin,Central
+C0321,Skyler Turner,Consumer,Houston,South
+C0322,Kai Keller,Corporate,Nashville,South
+C0323,Dana Hayes,Corporate,Chicago,Central
+C0324,Quinn Lopez,Home Office,Dallas,Central
+C0325,Sasha Reed,Consumer,Austin,Central
+C0326,Quinn Owens,Home Office,Seattle,West
+C0327,Morgan Reed,Corporate,Seattle,West
+C0328,Parker Lopez,Consumer,Dallas,Central
+C0329,Dana Nolan,Corporate,Boston,East
+C0330,Sam Grant,Home Office,Seattle,West
+C0331,Taylor Price,Consumer,Austin,Central
+C0332,Alex Foster,Home Office,Nashville,South
+C0333,Parker Owens,Consumer,Chicago,Central
+C0334,Drew Stone,Corporate,Los Angeles,West
+C0335,Noel Diaz,Home Office,Denver,West
+C0336,Sasha Nolan,Consumer,Austin,Central
+C0337,Reese Carter,Corporate,Chicago,Central
+C0338,Reese Price,Consumer,Boston,East
+C0339,Parker Carter,Corporate,Chicago,Central
+C0340,Drew Turner,Corporate,Los Angeles,West
+C0341,Cameron Diaz,Consumer,Austin,Central
+C0342,Sasha Vaughn,Consumer,Phoenix,South
+C0343,Taylor Reed,Consumer,Nashville,South
+C0344,Avery Mason,Consumer,Dallas,Central
+C0345,Avery Quincy,Consumer,Los Angeles,West
+C0346,Sasha Quincy,Consumer,Denver,West
+C0347,Noel Turner,Consumer,Miami,East
+C0348,Sam Grant,Consumer,Nashville,South
+C0349,Cameron Mason,Corporate,Phoenix,South
+C0350,Sam Carter,Corporate,Phoenix,South
+C0351,Drew Nolan,Corporate,Seattle,West
+C0352,Taylor Ellis,Consumer,Seattle,West
+C0353,Jordan Mason,Home Office,Phoenix,South
+C0354,Alex Mason,Corporate,Chicago,Central
+C0355,Quinn Keller,Consumer,Austin,Central
+C0356,Skyler Lopez,Consumer,Denver,West
+C0357,Cameron Quincy,Corporate,Denver,West
+C0358,Noel Quincy,Consumer,Dallas,Central
+C0359,Drew Keller,Consumer,Houston,South
+C0360,Morgan Mason,Home Office,Los Angeles,West
+C0361,Jordan Turner,Consumer,Houston,South
+C0362,Robin Diaz,Consumer,Miami,East
+C0363,Dana Diaz,Home Office,Los Angeles,West
+C0364,Cameron Carter,Corporate,Phoenix,South
+C0365,Quinn Owens,Consumer,Nashville,South
+C0366,Cameron Jensen,Home Office,Nashville,South
+C0367,Noel Quincy,Home Office,Seattle,West
+C0368,Morgan Owens,Corporate,Phoenix,South
+C0369,Cameron Hayes,Corporate,Nashville,South
+C0370,Cameron Stone,Consumer,Nashville,South
+C0371,Robin Quincy,Consumer,Boston,East
+C0372,Reese Grant,Corporate,Austin,Central
+C0373,Dana Irwin,Consumer,Nashville,South
+C0374,Drew Hayes,Corporate,Houston,South
+C0375,Riley Ellis,Home Office,Miami,East
+C0376,Sasha Diaz,Consumer,Houston,South
+C0377,Sam Turner,Corporate,Atlanta,East
+C0378,Parker Jensen,Consumer,Denver,West
+C0379,Cameron Irwin,Home Office,Dallas,Central
+C0380,Jordan Price,Consumer,Denver,West
+C0381,Taylor Mason,Corporate,Austin,Central
+C0382,Noel Turner,Corporate,Miami,East
+C0383,Jamie Quincy,Consumer,Dallas,Central
+C0384,Reese Keller,Corporate,Dallas,Central
+C0385,Jordan Irwin,Corporate,Dallas,Central
+C0386,Skyler Vaughn,Corporate,Seattle,West
+C0387,Alex Price,Corporate,Seattle,West
+C0388,Robin Vaughn,Home Office,Seattle,West
+C0389,Avery Diaz,Consumer,Denver,West
+C0390,Casey Stone,Consumer,Dallas,Central
+C0391,Kai Nolan,Consumer,Los Angeles,West
+C0392,Jordan Diaz,Corporate,Los Angeles,West
+C0393,Quinn Mason,Corporate,Seattle,West
+C0394,Alex Owens,Consumer,Miami,East
+C0395,Drew Brooks,Consumer,Dallas,Central
+C0396,Sam Keller,Home Office,Houston,South
+C0397,Cameron Reed,Consumer,Seattle,West
+C0398,Avery Grant,Corporate,Phoenix,South
+C0399,Sasha Keller,Consumer,Chicago,Central
+C0400,Riley Jensen,Home Office,Miami,East
+C0401,Alex Hayes,Consumer,Los Angeles,West
+C0402,Drew Turner,Consumer,Boston,East
+C0403,Cameron Quincy,Home Office,Boston,East
+C0404,Drew Diaz,Home Office,Los Angeles,West
+C0405,Jamie Vaughn,Consumer,Denver,West
+C0406,Alex Stone,Consumer,Houston,South
+C0407,Skyler Grant,Corporate,Atlanta,East
+C0408,Dana Reed,Home Office,Phoenix,South
+C0409,Alex Diaz,Consumer,Miami,East
+C0410,Skyler Vaughn,Consumer,Atlanta,East
+C0411,Alex Owens,Corporate,Austin,Central
+C0412,Jordan Owens,Corporate,Houston,South
+C0413,Reese Carter,Corporate,Dallas,Central
+C0414,Skyler Stone,Corporate,Atlanta,East
+C0415,Kai Brooks,Consumer,Atlanta,East
+C0416,Morgan Foster,Home Office,Los Angeles,West
+C0417,Quinn Diaz,Home Office,Denver,West
+C0418,Kai Quincy,Corporate,Nashville,South
+C0419,Robin Ellis,Consumer,Seattle,West
+C0420,Alex Turner,Consumer,Miami,East
+C0421,Casey Owens,Corporate,Nashville,South
+C0422,Noel Brooks,Consumer,Atlanta,East
+C0423,Alex Brooks,Home Office,Boston,East
+C0424,Taylor Carter,Consumer,Denver,West
+C0425,Robin Nolan,Corporate,Los Angeles,West
+C0426,Sasha Reed,Home Office,Dallas,Central
+C0427,Sasha Foster,Consumer,Phoenix,South
+C0428,Casey Reed,Consumer,Nashville,South
+C0429,Morgan Carter,Corporate,Seattle,West
+C0430,Skyler Reed,Corporate,Nashville,South
+C0431,Sasha Turner,Consumer,Dallas,Central
+C0432,Jordan Quincy,Corporate,Boston,East
+C0433,Robin Owens,Home Office,Nashville,South
+C0434,Robin Reed,Consumer,Atlanta,East
+C0435,Avery Brooks,Consumer,Dallas,Central
+C0436,Quinn Foster,Consumer,Houston,South
+C0437,Jordan Diaz,Consumer,Miami,East
+C0438,Skyler Lopez,Consumer,Seattle,West
+C0439,Drew Price,Consumer,Denver,West
+C0440,Drew Nolan,Corporate,Phoenix,South
+C0441,Sam Stone,Consumer,Miami,East
+C0442,Avery Ellis,Home Office,Dallas,Central
+C0443,Robin Price,Consumer,Denver,West
+C0444,Sam Ellis,Consumer,Atlanta,East
+C0445,Alex Grant,Corporate,Austin,Central
+C0446,Sam Price,Home Office,Houston,South
+C0447,Drew Vaughn,Consumer,Chicago,Central
+C0448,Cameron Nolan,Consumer,Miami,East
+C0449,Drew Carter,Consumer,Atlanta,East
+C0450,Sam Nolan,Corporate,Denver,West

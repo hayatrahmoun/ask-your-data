@@ -1,0 +1,19 @@
+product_id,product_name,category,sub_category,unit_price,unit_cost
+P01,Ergo Office Chair,Furniture,Chairs,180.0,118.0
+P02,Mesh Task Chair,Furniture,Chairs,120.0,82.0
+P03,Standing Desk,Furniture,Tables,420.0,290.0
+P04,Meeting Table,Furniture,Tables,360.0,245.0
+P05,Filing Cabinet,Furniture,Storage,150.0,95.0
+P06,Bookshelf Unit,Furniture,Storage,130.0,84.0
+P07,Smartphone X,Technology,Phones,640.0,540.0
+P08,Smartphone Lite,Technology,Phones,310.0,262.0
+P09,Wireless Mouse,Technology,Accessories,28.0,14.0
+P10,Mechanical Keyboard,Technology,Accessories,85.0,52.0
+P11,27in Monitor,Technology,Monitors,290.0,235.0
+P12,Ultrawide Monitor,Technology,Monitors,520.0,430.0
+P13,Copy Paper (box),Office Supplies,Paper,38.0,22.0
+P14,Notebook Pack,Office Supplies,Paper,16.0,8.0
+P15,Heavy-Duty Binder,Office Supplies,Binders,12.0,5.0
+P16,Presentation Binder,Office Supplies,Binders,18.0,8.0
+P17,Marker Set,Office Supplies,Art,14.0,6.0
+P18,Sketch Pad Set,Office Supplies,Art,22.0,11.0
